@@ -1,4 +1,4 @@
-* Ativa ou desativa o modo escuro */
+/* Ativa ou desativa o modo escuro */
 function modoEscuro(){
   document.body.classList.toggle("dark");
 }
